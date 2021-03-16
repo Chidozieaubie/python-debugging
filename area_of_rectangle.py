@@ -1,10 +1,9 @@
 #! /usr/bin/env python3
-
 "A script for calculating the area of a rectangle."
 
 import sys
 
-
+import pdb; pdb.set_trace()
 def area_of_rectangle(height, width = None):
     """
     Returns the area of a rectangle.
